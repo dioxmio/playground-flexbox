@@ -1,3 +1,0 @@
-cosas: http://www.sitepoint.com/responsive-fluid-width-variable-item-navigation-css/
-
-http://www.tutorialspoint.com/
